@@ -1,0 +1,2 @@
+Netlogix\RedisCaches\Service\IdentifiesRedisBackend:
+  className: Netlogix\RedisCaches\Service\IdentifiesNeosCacheRedisBackend
